@@ -1,0 +1,3 @@
+nam = input()
+
+print(nam)

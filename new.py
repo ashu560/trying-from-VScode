@@ -1,3 +1,3 @@
-nam = input()
+nam = input("Enter Your Name:")
 
 print(nam)
